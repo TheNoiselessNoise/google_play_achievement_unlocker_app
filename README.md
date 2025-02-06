@@ -1,5 +1,7 @@
 # Google Play Achievements Unlocker (GPAU) Android
 
+<img src="logo.png" width="128"/>
+
 is an app that allows you to easily unlock Google Play achievements without actually playing the game.
 
 - You need to have [root access](https://en.wikipedia.org/wiki/Rooting_(Android)) to use this app.
